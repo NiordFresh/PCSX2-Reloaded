@@ -8,10 +8,10 @@ For now only as a proof of concept, based on nightly build v2.3.19, but with pot
 | OS  | Working? |
 | ------------- | ------------- |
 | Windows 10 1809+ | Use official PCSX2 builds |
-| Windows 10 (1507-1809) || ✅  |
+| Windows 10 (1507 - 1809) | ✅  |
 | Windows 8.1 (05.2025 - All Official + All S2012 R2 Updates)  | ✅  |
 | Windows 8.0 (05.2025 - All Official + All S2012 Updates) | ⚠️* |
-| Windows 7 (07.2021 - All Official + Some ESU Updates) || ❌ |
+| Windows 7 (07.2021 - All Official + Some ESU Updates) | ❌ |
 
 *Windows 8.0 is having issues with DXGI.dll for now... Probably fixable...
 
