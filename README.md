@@ -1,7 +1,7 @@
 ![pcsx2](https://github.com/user-attachments/assets/13f8412a-261d-4209-b33f-87bfa251385a)
 
 # PCSX2-Reloaded
-PCSX2 2.0+ fork with Windows 8.1+ support. 
+PCSX2 2.0+ port with Windows 8.1+ support. 
 
 For now only as a proof of concept, based on nightly build v2.3.19, but with potential for higher versions like v2.5...
 
